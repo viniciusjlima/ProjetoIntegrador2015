@@ -18,6 +18,7 @@ namespace Aluno.Controllers
             AlunoViewModel vm = new AlunoViewModel();
             vm.alunos = alunoModel.todosAlunos();
             return View(vm);
+		//testeJenkins
         }
         public PartialViewResult List(string a)
         {
