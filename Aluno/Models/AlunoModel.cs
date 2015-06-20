@@ -10,7 +10,12 @@ namespace Aluno.Models
     {
         private AlunoEntities db = new AlunoEntities();
 
-        
+        public List<aluno> todosAlunos()
+        {
+            var lista = from a in db.Aluno
+                        select a;
+            return lista.ToList();
+        }
 
         public string adicionarAluno(aluno a)
         {
