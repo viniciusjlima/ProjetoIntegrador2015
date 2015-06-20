@@ -1,0 +1,147 @@
+D:\Prova Ially\Aluno\Aluno\obj\Debug\ResolveAssemblyReference.cache
+D:\Prova Ially\Aluno\Aluno\bin\Aluno.dll
+D:\Prova Ially\Aluno\Aluno\bin\Aluno.pdb
+D:\Prova Ially\Aluno\Aluno\bin\Antlr3.Runtime.dll
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.AspNet.dll
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.Core.dll
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.dll
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.dll
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Prova Ially\Aluno\Aluno\bin\EntityFramework.dll
+D:\Prova Ially\Aluno\Aluno\bin\Microsoft.Web.Infrastructure.dll
+D:\Prova Ially\Aluno\Aluno\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Prova Ially\Aluno\Aluno\bin\Newtonsoft.Json.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Net.Http.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Net.Http.Formatting.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Net.Http.WebRequest.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Helpers.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Http.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Http.WebHost.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Mvc.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Optimization.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Razor.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Deployment.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.dll
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Razor.dll
+D:\Prova Ially\Aluno\Aluno\bin\WebGrease.dll
+D:\Prova Ially\Aluno\Aluno\bin\WebMatrix.Data.dll
+D:\Prova Ially\Aluno\Aluno\bin\WebMatrix.WebData.dll
+D:\Prova Ially\Aluno\Aluno\bin\EntityFramework.xml
+D:\Prova Ially\Aluno\Aluno\bin\Newtonsoft.Json.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Net.Http.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Net.Http.Formatting.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Net.Http.WebRequest.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Helpers.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Http.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Http.WebHost.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Mvc.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.Razor.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Deployment.xml
+D:\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Razor.xml
+D:\Prova Ially\Aluno\Aluno\bin\WebMatrix.Data.xml
+D:\Prova Ially\Aluno\Aluno\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Prova Ially\Aluno\Aluno\bin\WebMatrix.WebData.xml
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.AspNet.xml
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.Core.xml
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.xml
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.xml
+D:\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Prova Ially\Aluno\Aluno\obj\Debug\Aluno.dll
+D:\Prova Ially\Aluno\Aluno\obj\Debug\Aluno.pdb
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\Aluno.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\Aluno.pdb
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\Antlr3.Runtime.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.Core.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\EntityFramework.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\Newtonsoft.Json.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Net.Http.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Net.Http.WebRequest.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.Helpers.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.Mvc.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.Optimization.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.Razor.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\WebGrease.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\WebMatrix.Data.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\WebMatrix.WebData.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\EntityFramework.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\Newtonsoft.Json.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Net.Http.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Net.Http.WebRequest.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.Helpers.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.Mvc.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.Razor.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\WebMatrix.Data.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\WebMatrix.WebData.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.Core.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\obj\Debug\Aluno.csprojResolveAssemblyReference.cache
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\obj\Debug\Aluno.dll
+C:\Users\Ially Leandro\Desktop\Prova Ially\Aluno\Aluno\obj\Debug\Aluno.pdb
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\Aluno.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\Aluno.pdb
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\Antlr3.Runtime.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.Core.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\EntityFramework.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\Newtonsoft.Json.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Net.Http.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Net.Http.WebRequest.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.Helpers.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.Mvc.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.Optimization.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.Razor.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\WebGrease.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\WebMatrix.Data.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\WebMatrix.WebData.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\EntityFramework.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\Newtonsoft.Json.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Net.Http.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Net.Http.WebRequest.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.Helpers.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.Mvc.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.Razor.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\WebMatrix.Data.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\WebMatrix.WebData.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.Core.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\obj\Debug\Aluno.csprojResolveAssemblyReference.cache
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\obj\Debug\Aluno.dll
+C:\Users\Ially Leandro\OneDrive\Prova Jean 10.06.15\Prova Ially\Aluno\Aluno\obj\Debug\Aluno.pdb
