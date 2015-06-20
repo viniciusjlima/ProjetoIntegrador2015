@@ -1,0 +1,17 @@
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\Testes.dll
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\Testes.pdb
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\WebDriver.dll
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\WebDriver.Support.dll
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\WebDriver.pdb
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\WebDriver.xml
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\WebDriver.Support.pdb
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\bin\Debug\WebDriver.Support.xml
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\obj\Debug\Testes.csprojResolveAssemblyReference.cache
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\obj\Debug\Testes.dll
+D:\Users\Vinicius Lima\Desktop\PI2015\Testes\obj\Debug\Testes.pdb

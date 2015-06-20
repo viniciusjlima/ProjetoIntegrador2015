@@ -198,3 +198,8 @@ D:\Users\Vinicius Lima\Desktop\PI2015\Aluno\bin\DotNetOpenAuth.OpenId.RelyingPar
 D:\Users\Vinicius Lima\Desktop\PI2015\Aluno\obj\Debug\Aluno.csprojResolveAssemblyReference.cache
 D:\Users\Vinicius Lima\Desktop\PI2015\Aluno\obj\Debug\Aluno.dll
 D:\Users\Vinicius Lima\Desktop\PI2015\Aluno\obj\Debug\Aluno.pdb
+D:\Users\Vinicius Lima\Desktop\PI2015\Aluno\bin\Aluno.dll.config
+D:\Users\Vinicius Lima\Desktop\PI2015\Aluno\bin\WebDriver.dll
+D:\Users\Vinicius Lima\Desktop\PI2015\Aluno\bin\WebDriver.Support.dll
+D:\Users\Vinicius Lima\Desktop\PI2015\Aluno\bin\WebDriver.xml
+D:\Users\Vinicius Lima\Desktop\PI2015\Aluno\bin\WebDriver.Support.xml
