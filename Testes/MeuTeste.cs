@@ -16,13 +16,33 @@ namespace Testes
         {
             driver = new FirefoxDriver();
             driver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
-            driver.Navigate().GoToUrl("https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal");
+            driver.Navigate().GoToUrl("http://projetointegrador2015.azurewebsites.net");
         }
 
         [TestCleanup]
         public void testCleanup()
         {
             driver.Quit();
+        }
+
+        [TestMethod]
+        public void Novo_Aluno()
+        {
+            //Entra na pagina de aluno
+            driver.FindElement(By.CssSelector("a[href*='/Aluno']")).Click(); 
+            //Clica no botao novo
+            driver.FindElement(By.XPath("//*[@id='Novo']")).Click();
+            //asdadas
+            //preenche o campo nome
+            //IWebElement Nome = driver.FindElement(By.Id("Nome"));
+            //Nome.SendKeys("Ronaldo");
+            ////preenche o campo CPF
+            //IWebElement CPF = driver.FindElement(By.Id("CPF"));
+            //Nome.SendKeys("12345678901");
+            ////preenche o campo nome
+            //IWebElement Matricula = driver.FindElement(By.Id("Matricula"));
+            //Nome.SendKeys("12345678");
+            //Matricula.SendKeys(Keys.Enter);
         }
 
         [TestMethod]
@@ -33,7 +53,7 @@ namespace Testes
             searchInput.SendKeys("Ronaldo");
             searchInput.SendKeys(Keys.Enter);
             string firstHeading = driver.FindElement(By.Id("firstHeading")).Text;
-            Assert.AreEqual("Ronaldorr", firstHeading);
+            Assert.AreEqual("Ronaldo", firstHeading);
         }
 
         [TestMethod]
