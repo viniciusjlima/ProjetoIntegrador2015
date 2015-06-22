@@ -1,8 +1,8 @@
-language: c
- 
+language: CSharp
 install:
-  - sudo apt-get install mono-devel mono-gmcs nunit-console
- 
+  - curl -sSL https://raw.githubusercontent.com/aspnet/Home/master/kvminstall.sh | sh && source ~/.k/kvm/kvm.sh
+  - kvm upgrade
+  - kpm restore --no-cache
 script:
-  - xbuild CI.proj
-  - nunit-console ./src/Aluno.Testes/bin/Debug/Aluno.Testes.dll -exclude Integration,NotWorkingOnMono
+  - k test -parallel none
+  - kpm bundle --overwrite --quiet
