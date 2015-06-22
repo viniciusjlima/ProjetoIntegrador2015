@@ -1,6 +1,9 @@
-language: csharp
-sudo: false
-mono:
-  - 3.12.0
-script:
-  - ./Aluno.sln --quiet verify
+-## Travis CI Integration
+-
+-language: c
+-
+-install:
+-  - sudo apt-get install mono-devel mono-gmcs nunit-console
+-script:
+-  - xbuild Artemis_Mono/Artemis_Mono.sln
+-  - nunit-console Artemis_Mono/bin/Debug/ArtemisMonoUnitTests.dll
