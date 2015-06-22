@@ -1,5 +1,0 @@
-D:\Users\Vinicius Lima\Desktop\PI2015\TesteAluno\bin\Debug\TesteAluno.dll
-D:\Users\Vinicius Lima\Desktop\PI2015\TesteAluno\bin\Debug\TesteAluno.pdb
-D:\Users\Vinicius Lima\Desktop\PI2015\TesteAluno\obj\Debug\TesteAluno.csprojResolveAssemblyReference.cache
-D:\Users\Vinicius Lima\Desktop\PI2015\TesteAluno\obj\Debug\TesteAluno.dll
-D:\Users\Vinicius Lima\Desktop\PI2015\TesteAluno\obj\Debug\TesteAluno.pdb
