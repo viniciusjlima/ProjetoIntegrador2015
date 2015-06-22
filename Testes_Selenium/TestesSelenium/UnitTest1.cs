@@ -30,7 +30,7 @@ namespace Testes
         public void Novo_Aluno()
         {
             //Entra na pagina de aluno
-            driver.FindElement(By.CssSelector("a[href*='/Aluno']")).Click(); 
+            driver.FindElement(By.CssSelector("a[href*='/Aluno']")).Click();
             //Clica no botao novo
             driver.FindElement(By.XPath("//*[@id='Novo']")).Click();
             //preenche o campo nome
@@ -51,13 +51,35 @@ namespace Testes
         [TestMethod]
         public void Editar_Aluno()
         {
+            //Entra na pagina de aluno
+            driver.FindElement(By.CssSelector("a[href*='/Aluno']")).Click();
+            IWebElement a = driver.FindElement(By.Id("a"));
+            a.SendKeys(Keys.Tab);
+            a.SendKeys(Keys.Tab);
+            a.SendKeys(Keys.Enter);
+
+            //preenche o campo nome
+            IWebElement Nome = driver.FindElement(By.Id("Nome"));
+            Nome.SendKeys("Testando");
+
+            //preenche o campo CPF
+            IWebElement CPF = driver.FindElement(By.Id("CPF"));
+            CPF.SendKeys("99999999999");
+
+            //preenche o campo matricula
+            IWebElement Matricula = driver.FindElement(By.Id("Matricula"));
+            Matricula.SendKeys("12345678");
+            Matricula.SendKeys(Keys.Enter);
+
+            string lista = driver.FindElement(By.Id("Lista")).Text;
+            Assert.IsTrue(lista.Contains("Testando"));
 
         }
 
         [TestMethod]
         public void Pesquisar_Resultado()
         {
-            
+
             IWebElement searchInput = driver.FindElement(By.Id("searchInput"));
             searchInput.SendKeys("Ronaldo");
             searchInput.SendKeys(Keys.Enter);
