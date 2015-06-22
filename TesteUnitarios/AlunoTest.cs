@@ -26,9 +26,6 @@ namespace TesteUnitarios
                 CPF = "11111111111",
                 Matricula = "11111111"
             };
-
-
-           
         }
 
         [TestMethod]
@@ -64,7 +61,7 @@ namespace TesteUnitarios
             {
                 IdAluno = 2,
                 Nome = "AlunoTeste2",
-                CPF = "11111111111",
+                CPF = "11111111112",
                 Matricula = "22222222"
             };
 
