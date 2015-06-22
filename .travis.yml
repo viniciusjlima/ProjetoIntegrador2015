@@ -1,9 +1,8 @@
 language: csharp
-script:
-  - xbuild /p:Configuration=Debug Aluno.sln
+solution: Aluno.sln
 before_install:
   - sudo apt-get install nunit-console
 before_script:
   - nuget restore Aluno.sln
 after_script:
-  - nunit-console Testes/bin/Debug/Testes.dll
+  - nunit-console Testes/bin/Release/Tests.dll
