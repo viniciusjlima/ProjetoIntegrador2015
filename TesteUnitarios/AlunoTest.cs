@@ -61,7 +61,7 @@ namespace TesteUnitarios
             {
                 IdAluno = 2,
                 Nome = "AlunoTeste2",
-                CPF = "11111111112",
+                CPF = "11111111111",
                 Matricula = "22222222"
             };
 
