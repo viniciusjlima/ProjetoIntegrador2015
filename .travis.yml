@@ -1,8 +1,8 @@
-language: csharp
-solution: Aluno.sln
-before_install:
-  - sudo apt-get install nunit-console
-before_script:
-  - nuget restore Aluno.sln
-after_script:
-  - nunit-console Testes/bin/Release/Tests.dll
+language: c
+ 
+install:
+  - sudo apt-get install mono-devel mono-gmcs nunit-console
+ 
+script:
+  - xbuild CI.proj
+  - nunit-console ./src/Aluno.Testes/bin/Debug/Aluno.Testes.dll -exclude Integration,NotWorkingOnMono
