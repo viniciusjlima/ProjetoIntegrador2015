@@ -46,8 +46,8 @@ namespace TesteUnitarios
         {
             aluno2 = new aluno()
             {
-                IdAluno = 2,
-                Nome = "AlunoTeste2",
+                IdAluno = 1,
+                Nome = "AlunoTeste1",
                 CPF = "22222222222",
                 Matricula = "22222222"
             };

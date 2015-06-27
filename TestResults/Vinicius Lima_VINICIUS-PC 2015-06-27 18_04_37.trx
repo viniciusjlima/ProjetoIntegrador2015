@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ce901d0a-4f75-406b-8004-670cec4603d8" name="Vinicius Lima@VINICIUS-PC 2015-06-27 18:04:37" runUser="vinicius-pc\Vinicius Lima" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Configurações de Teste Padrão" id="1f99e8ae-88ed-401f-bbfe-21c0f7bd38da">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Vinicius Lima_VINICIUS-PC 2015-06-27 18_04_37" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2015-06-27T18:04:37.3232741-03:00" queuing="2015-06-27T18:04:37.8794449-03:00" start="2015-06-27T18:04:38.0200791-03:00" finish="2015-06-27T18:04:38.4419741-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" error="0" failed="3" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="VINICIUS-PC" outcome="Warning" timestamp="2015-06-27T18:04:37.4639057-03:00">
+        <Text>Aviso: Problema de implantação de Execução de Teste: O assembly ou módulo 'Aluno' direta ou indiretamente referenciado por o contêiner de teste 'd:\users\vinicius lima\desktop\pi2015\testeunitarios\obj\debug\testeunitarios.dll' não foi encontrado.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Garantir_Que_2_Alunos_Sao_Iguais_Quando_Tem_Mesmo_CPF" storage="d:\users\vinicius lima\desktop\pi2015\testeunitarios\obj\debug\testeunitarios.dll" id="f8f749b8-5a23-a95a-e1df-1950878206a6">
+      <Execution id="2c71dd61-9ce7-48f3-80bd-3c425a956a56" />
+      <TestMethod codeBase="D:/Users/Vinicius Lima/Desktop/PI2015/TesteUnitarios/obj/Debug/TesteUnitarios.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TesteUnitarios.AlunoTest, TesteUnitarios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Garantir_Que_2_Alunos_Sao_Iguais_Quando_Tem_Mesmo_CPF" />
+    </UnitTest>
+    <UnitTest name="Garantir_Que_2_Alunos_Sao_Iguais_Quando_Tem_Mesmo_Id" storage="d:\users\vinicius lima\desktop\pi2015\testeunitarios\obj\debug\testeunitarios.dll" id="f008908c-fb45-27b3-bf94-f3b2bd98656c">
+      <Execution id="88982a93-3814-40c5-93ee-8e56a26a8917" />
+      <TestMethod codeBase="D:/Users/Vinicius Lima/Desktop/PI2015/TesteUnitarios/obj/Debug/TesteUnitarios.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TesteUnitarios.AlunoTest, TesteUnitarios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Garantir_Que_2_Alunos_Sao_Iguais_Quando_Tem_Mesmo_Id" />
+    </UnitTest>
+    <UnitTest name="Garantir_Que_2_Alunos_Sao_Iguais_Quando_Tem_Mesmo_Login" storage="d:\users\vinicius lima\desktop\pi2015\testeunitarios\obj\debug\testeunitarios.dll" id="9de9f8e1-5ddc-4ffc-6aa0-f202e65f8880">
+      <Execution id="b17ff023-5a75-4ca7-a3de-e57491025e3b" />
+      <TestMethod codeBase="D:/Users/Vinicius Lima/Desktop/PI2015/TesteUnitarios/obj/Debug/TesteUnitarios.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TesteUnitarios.AlunoTest, TesteUnitarios, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Garantir_Que_2_Alunos_Sao_Iguais_Quando_Tem_Mesmo_Login" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Resultados fora de uma Lista" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Todos os Resultados Carregados" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f8f749b8-5a23-a95a-e1df-1950878206a6" executionId="2c71dd61-9ce7-48f3-80bd-3c425a956a56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f008908c-fb45-27b3-bf94-f3b2bd98656c" executionId="88982a93-3814-40c5-93ee-8e56a26a8917" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9de9f8e1-5ddc-4ffc-6aa0-f202e65f8880" executionId="b17ff023-5a75-4ca7-a3de-e57491025e3b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2c71dd61-9ce7-48f3-80bd-3c425a956a56" testId="f8f749b8-5a23-a95a-e1df-1950878206a6" testName="Garantir_Que_2_Alunos_Sao_Iguais_Quando_Tem_Mesmo_CPF" computerName="VINICIUS-PC" duration="00:00:00.0310076" startTime="2015-06-27T18:04:38.0669545-03:00" endTime="2015-06-27T18:04:38.3638516-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c71dd61-9ce7-48f3-80bd-3c425a956a56">
+      <Output>
+        <ErrorInfo>
+          <Message>Método de inicialização TesteUnitarios.AlunoTest.InicializarTest gerou exceção. System.IO.FileNotFoundException: System.IO.FileNotFoundException: Não foi possível carregar arquivo ou assembly 'Aluno, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' ou uma de suas dependências. O sistema não pode encontrar o arquivo especificado.AVI: o log de associações de assembly está desativado.
+Para ativar o log de  falhas de assembly, defina o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) como 1.
+Observação: há alguma penalidade para o desempenho associada ao log de falha de associação de assembly.
+Para desativar esse recurso, remova o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog].
+.</Message>
+          <StackTrace>    em TesteUnitarios.AlunoTest.InicializarTest()
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="88982a93-3814-40c5-93ee-8e56a26a8917" testId="f008908c-fb45-27b3-bf94-f3b2bd98656c" testName="Garantir_Que_2_Alunos_Sao_Iguais_Quando_Tem_Mesmo_Id" computerName="VINICIUS-PC" duration="00:00:00.0024475" startTime="2015-06-27T18:04:38.3638516-03:00" endTime="2015-06-27T18:04:38.3794706-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="88982a93-3814-40c5-93ee-8e56a26a8917">
+      <Output>
+        <ErrorInfo>
+          <Message>Método de inicialização TesteUnitarios.AlunoTest.InicializarTest gerou exceção. System.IO.FileNotFoundException: System.IO.FileNotFoundException: Não foi possível carregar arquivo ou assembly 'Aluno, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' ou uma de suas dependências. O sistema não pode encontrar o arquivo especificado.AVI: o log de associações de assembly está desativado.
+Para ativar o log de  falhas de assembly, defina o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) como 1.
+Observação: há alguma penalidade para o desempenho associada ao log de falha de associação de assembly.
+Para desativar esse recurso, remova o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog].
+.</Message>
+          <StackTrace>    em TesteUnitarios.AlunoTest.InicializarTest()
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b17ff023-5a75-4ca7-a3de-e57491025e3b" testId="9de9f8e1-5ddc-4ffc-6aa0-f202e65f8880" testName="Garantir_Que_2_Alunos_Sao_Iguais_Quando_Tem_Mesmo_Login" computerName="VINICIUS-PC" duration="00:00:00.0024594" startTime="2015-06-27T18:04:38.3794706-03:00" endTime="2015-06-27T18:04:38.3950961-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b17ff023-5a75-4ca7-a3de-e57491025e3b">
+      <Output>
+        <ErrorInfo>
+          <Message>Método de inicialização TesteUnitarios.AlunoTest.InicializarTest gerou exceção. System.IO.FileNotFoundException: System.IO.FileNotFoundException: Não foi possível carregar arquivo ou assembly 'Aluno, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' ou uma de suas dependências. O sistema não pode encontrar o arquivo especificado.AVI: o log de associações de assembly está desativado.
+Para ativar o log de  falhas de assembly, defina o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog] (DWORD) como 1.
+Observação: há alguma penalidade para o desempenho associada ao log de falha de associação de assembly.
+Para desativar esse recurso, remova o valor do Registro [HKLM\Software\Microsoft\Fusion!EnableLog].
+.</Message>
+          <StackTrace>    em TesteUnitarios.AlunoTest.InicializarTest()
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
