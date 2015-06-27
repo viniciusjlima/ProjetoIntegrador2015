@@ -1,15 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Schema Namespace="AlunoModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
-  <EntityContainer Name="AlunoModelStoreContainer">
-    <EntitySet Name="Aluno" EntityType="AlunoModel.Store.Aluno" store:Type="Tables" Schema="dbo" />
-  </EntityContainer>
+<Schema Namespace="AlunoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
   <EntityType Name="Aluno">
     <Key>
       <PropertyRef Name="IdAluno" />
     </Key>
-    <Property Name="IdAluno" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
-    <Property Name="Nome" Type="varchar" Nullable="false" MaxLength="255" />
-    <Property Name="CPF" Type="char" Nullable="false" MaxLength="14" />
-    <Property Name="Matricula" Type="varchar" Nullable="false" MaxLength="255" />
+    <Property Name="IdAluno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nome" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="CPF" Type="char" MaxLength="14" Nullable="false" />
+    <Property Name="Matricula" Type="varchar" MaxLength="255" Nullable="false" />
   </EntityType>
+  <EntityType Name="Professor">
+    <Key>
+      <PropertyRef Name="idProfessor" />
+    </Key>
+    <Property Name="idProfessor" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nome" Type="varchar" MaxLength="80" Nullable="false" />
+    <Property Name="Especializacao" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Materia" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Graduacao" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="AlunoModelStoreContainer">
+    <EntitySet Name="Aluno" EntityType="Self.Aluno" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Professor" EntityType="Self.Professor" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
 </Schema>
