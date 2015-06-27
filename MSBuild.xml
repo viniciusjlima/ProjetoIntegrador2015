@@ -1,0 +1,12 @@
+<Project  xmlns = "http://schemas.microsoft.com/developer/msbuild/2003" > 
+    <Target  Name = "PrecompileWeb" > 
+        <AspNetCompiler 
+            VirtualPath = "/" 
+            PhysicalPath = "D:\Users\Vinicius Lima\Desktop\PI2015\" 
+            TargetPath = "D:\Users\Vinicius Lima\Desktop\PI2015\" 
+            Force = "true" 
+            Debug = "true" 
+            FixedNames = "True" 
+        /> 
+    </Target> 
+</Project>
