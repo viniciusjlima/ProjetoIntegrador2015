@@ -12,8 +12,8 @@ namespace Aluno.Models
 
         public List<Professor> todosProfessores()
         {
-            var lista = from p in db.Professor
-                        select p;
+            var lista = from a in db.Professor
+                        select a;
             return lista.ToList();
         }
 
@@ -87,7 +87,7 @@ namespace Aluno.Models
             }
             if (a.Materia == null || a.Materia == "")
             {
-                return "O materia não pode ser vazia!";
+                return "A matéria não pode ser vazia!";
             }
             if (a.Graduacao == null || a.Graduacao == "")
             {

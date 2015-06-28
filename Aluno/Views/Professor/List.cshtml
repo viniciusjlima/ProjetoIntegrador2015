@@ -10,10 +10,10 @@
             Nome
         </th>
         <th>
-            Graduação
+            Graduacao
         </th>
         <th>
-            Especialização
+            Especializacao
         </th>
         <th>
             Materia
@@ -36,8 +36,8 @@
                 @Html.DisplayFor(modelItem => item.Materia)
             </td>
             <td>
-                <input type="button" value="Editar"
-                       onclick="aluno(@item.idProfessor);" /> |
+                @Html.ActionLink("Editar", "Edit", new { id = item.idProfessor })
+ | 
                 @Html.ActionLink("Delete", "Delete", new { id = item.idProfessor },
                 new { @onclick = "return confirm('Tem certeza?');" })
             </td>
@@ -46,7 +46,7 @@
 
 </table>
 <script>
-    function professor(id) {
-        editar(id);
+    function professor(idProfessor) {
+        editar(idProfessor);
     }
 </script>

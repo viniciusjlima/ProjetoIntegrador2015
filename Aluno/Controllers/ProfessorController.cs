@@ -17,9 +17,8 @@ namespace Aluno.Controllers
         {
             ProfessorViewModel vm = new ProfessorViewModel();
             vm.professores = professorModel.todosProfessores();
-            return View();
+            return View(vm);
         }
-
         public PartialViewResult List(string a)
         {
             var professores = professorModel.listarProfessores(a);
