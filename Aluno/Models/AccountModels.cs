@@ -6,9 +6,11 @@ using System.Data.Entity;
 using System.Globalization;
 using System.Web.Mvc;
 using System.Web.Security;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Aluno.Models
 {
+    [ExcludeFromCodeCoverage]
     public class UsersContext : DbContext
     {
         public UsersContext()

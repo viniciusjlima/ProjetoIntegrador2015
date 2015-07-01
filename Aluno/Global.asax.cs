@@ -6,6 +6,7 @@ using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Aluno
 {
@@ -14,6 +15,7 @@ namespace Aluno
 
     public class MvcApplication : System.Web.HttpApplication
     {
+        [ExcludeFromCodeCoverage]
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();

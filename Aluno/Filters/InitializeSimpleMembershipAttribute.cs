@@ -5,9 +5,11 @@ using System.Threading;
 using System.Web.Mvc;
 using WebMatrix.WebData;
 using Aluno.Models;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Aluno.Filters
 {
+    [ExcludeFromCodeCoverage]
     [AttributeUsage(AttributeTargets.Class | AttributeTargets.Method, AllowMultiple = false, Inherited = true)]
     public sealed class InitializeSimpleMembershipAttribute : ActionFilterAttribute
     {

@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using Microsoft.Web.WebPages.OAuth;
 using Aluno.Models;
+using System.Diagnostics.CodeAnalysis;
+
 
 namespace Aluno
 {
+    [ExcludeFromCodeCoverage]
     public static class AuthConfig
     {
         public static void RegisterAuth()

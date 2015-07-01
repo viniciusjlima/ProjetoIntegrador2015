@@ -10,9 +10,11 @@ using Microsoft.Web.WebPages.OAuth;
 using WebMatrix.WebData;
 using Aluno.Filters;
 using Aluno.Models;
+using System.Diagnostics.CodeAnalysis;
 
 namespace Aluno.Controllers
 {
+    [ExcludeFromCodeCoverage]
     [Authorize]
     [InitializeSimpleMembership]
     public class AccountController : Controller
