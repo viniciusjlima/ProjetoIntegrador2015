@@ -218,6 +218,8 @@ namespace TesteUnitarios
         [TestMethod]
         public void Garantir_Que_2_professors_podem_Ser_Iguais_Quando_Tem_Mesma_Materia00()
         {
+
+
             professor2 = new Professor()
             {
                 idProfessor = 2,
